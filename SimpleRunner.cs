@@ -3,7 +3,10 @@
  Author: oh@steakovercooked.com
  
  Requires: 
-    https://github.com/DoctorLai/SimpleCommandLineParametersReader
+   https://github.com/DoctorLai/SimpleCommandLineParametersReader
+    
+ More information:
+   https://helloacm.com/just-a-simple-parallel-runner-in-c/
 */
 using System;
 using System.Collections.Generic;
