@@ -74,5 +74,14 @@ Process Starts: cscript.exe /NoLogo job3.vbs
 
 Four independent processes are killed and terminated because the timeout is set to 1ms. 
 
+## Specify a job list
+You could put each line a job task in a job list file, for example,
+
+```
+> SimpleRunner jobs=list1.txt jobs=list2.txt
+```
+
+where *list1.txt* and *list2.txt* are two plain text files that contain each line a job.
+
 ## More Information
 https://helloacm.com/just-a-simple-parallel-runner-in-c/
