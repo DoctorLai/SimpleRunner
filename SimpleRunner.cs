@@ -1,6 +1,6 @@
 /*
  Just a Simple Parallel Runner
- Author: oh@steakovercooked.com
+ Author: https://steemit.com/@justyy
  
  Requires: 
    https://github.com/DoctorLai/SimpleCommandLineParametersReader
