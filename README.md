@@ -1,6 +1,6 @@
 # SimpleRunner
-Just a Simple [Parallel Runner](https://helloacm.com/just-a-simple-parallel-runner-in-c/)
-Published on Utopian: https://utopian.io/utopian-io/@justyy/just-a-simple-parallel-runner-in-c
+- Just a Simple [Parallel Runner](https://helloacm.com/just-a-simple-parallel-runner-in-c/)
+- Published on Utopian: https://utopian.io/utopian-io/@justyy/just-a-simple-parallel-runner-in-c
 
 ## Technology
 C# .NET 4.6
