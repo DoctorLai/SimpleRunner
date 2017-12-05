@@ -1,5 +1,5 @@
 # SimpleRunner
-Just a Simple Parallel Runner https://helloacm.com/just-a-simple-parallel-runner-in-c/
+Just a Simple [Parallel Runner](https://helloacm.com/just-a-simple-parallel-runner-in-c/)
 
 ## Technology
 C# .NET 4.6
@@ -83,5 +83,5 @@ You could put each line a job task in a job list file, for example,
 
 where *list1.txt* and *list2.txt* are two plain text files that contain each line a job.
 
-## More Information
-https://helloacm.com/just-a-simple-parallel-runner-in-c/
+# Author
+https://steemit.com/@justyy
